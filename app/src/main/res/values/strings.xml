@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoteKeeperApp</string>
+    <string name="add_note">Add Note</string>
+<!--    <string name="textViewTimestamp">Add Note</string>-->
+</resources>
